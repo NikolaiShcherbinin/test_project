@@ -72,7 +72,8 @@ const video = ['youtube', 'vimeo', 'rutube'],
 
 
 
-
+      let x = +"Infinity";
+      console.log(false - true);
 
 
 
