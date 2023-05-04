@@ -1,0 +1,11 @@
+1.  git init //Инициализация
+
+    git config --global user.name "Nikolay Shcherbinin" //Настройки
+    git config --global user.email "13_demon_89@mail.run" //Настройки
+
+    git add -A //Добавляем для индексации все файлы
+    git status //Проверяем статус
+    git commit -a -m"Файлы только что созданы" //Добавляем метку состояния
+    git log --pretty=format:"%h %ad | %s%d [%an]" --graph --date=short //История коммитов
+
+    
