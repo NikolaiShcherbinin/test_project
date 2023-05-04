@@ -7,5 +7,9 @@
     git status //Проверяем статус
     git commit -a -m"Файлы только что созданы" //Добавляем метку состояния
     git log --pretty=format:"%h %ad | %s%d [%an]" --graph --date=short //История коммитов
+    git push //Отправляем на gitHub
+
+    git clone путь к репе // Клонирование репозитория https://skr.sh/sJfD5bfcCmk
+    wsefwefwe 
 
     
